@@ -1,0 +1,92 @@
+name: "Mentorship Project"
+description: Propose a Mentorship Project
+title: "2025: Provide a short but descriptive title of what the mentorship project is."
+
+labels: [2025-project]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        _The more information you share, the faster we can help you._
+        Prior to opening the issue, please make sure that you:
+        - Use English (EN/US) to communicate.
+        - Search the [open issues](https://github.com/hyperledger-labs/documentation-template/issues) to avoid duplicating the issue.
+
+
+  - type: dropdown
+    id: primary-focus
+    attributes:
+      label: Primary Focus
+      description: |
+        Select the PRIMARY focus of the mentorship project and remove other labels.
+      multiple: false
+      options:
+        - Coding
+        - Documentation
+        - Research
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Describe the project scope and the overall objective, the problem/opportunity in need of effort, and probable implementation path to explore and fix the problem or realize the opportunity. Provide sufficient details but keep it concise up to 200 words at maximum. See examples from CNCF mentorships https://github.com/cncf/mentoring/tree/main/programs/lfx-mentorship/2024/01-Mar-May
+    validations:
+      required: true
+
+  - type: textarea
+    id: learning-objectives
+    attributes:
+      label: Learning Objectives
+      description: |
+        List 3-5 bullet points what the mentee will learn/develop/grow as an open source contributor through this experience. Well-defined learning objectives demonstrate a well-organized and robust project and pave the path for providing a positive internship/mentorship experience.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-outcome
+    attributes:
+      label: Expected Outcome and Deliverables
+      description: |
+        List 3-5 deliverables to be produced as the output of the project e.g. features/application(s)/report(s)/research/documentation, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Relation to Hyperledger and Impact on the community
+      description: |
+        List the Hyperledger Project(s) or Labs, e.g. Hyperledger Fabric, Hyperledger Indy, Hyperledger Besu, and etc., that this mentorship is related to or adding features or functionalities or documentations or research results to and the impact the project may have on the community.
+    validations:
+      required: true
+
+  - type: textarea
+    id: skills
+    attributes:
+      label: Recommended Skills
+      description: |
+        List any skills, abilities, technical knowledge, training or educational background required and/or desired for successfully completing the project.
+    validations:
+      required: true
+
+  - type: textarea
+    id: contacts
+    attributes:
+      label: Mentor(s) Names and Contact Info
+      description: |
+        Name, email, Chat ID, company affiliation (optional)
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: |
+        Provide links to wiki entries, GitHub repos, release-plan notes, and/or other web-references that would be helpful information for others to obtain additional pertinent information about the project.
+    validations:
+      required: true
+
