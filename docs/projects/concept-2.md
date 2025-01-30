@@ -1,3 +1,3 @@
-# Concept 2
+# Another Project
 
 Explain your second concept here.
