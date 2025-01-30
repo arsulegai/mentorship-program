@@ -82,10 +82,8 @@ extra:
     provider: mike
 nav:
   - Introduction: index.md
-  - Concepts:
-    - Concept 1: concepts/concept-1.md
-    - Concept 2: concepts/concept-2.md
-    - Concept 3: concepts/concept-3.md
+  - Projects by year:
+    - 2025: projects/2025.md
   - Getting Started:
     - Installation: getting-started/installation.md
     - Running: getting-started/running.md
