@@ -9,7 +9,7 @@
 
 # Program Description
 
-The LF Decentralized Trust Mentorship Program provides a structured remote learning opportunity for aspiring decentralized tech developers, researchers, and other contributors. LF Decentralized Trust project maintainers, experienced developers, and active community members will mentor participants, guiding them through a mentorship project with a defined scope and outcome. Mentors and mentees will collaborate remotely from their preferred locations, with regular evaluations and feedback provided. Mentees will have the opportunity to showcase their learnings and contributions through blogging, speaking at meetups or regional events, or traveling to a global event to present their work in person and network with the broader community. The mentorship program plays an important role in introducing new talent to LF Decentralized Trust projects and the community, which contributes to maintaining and enhancing the health and sustainability of our open source community. 
+The LF Decentralized Trust Mentorship Program provides a structured remote learning opportunity for aspiring decentralized tech developers, researchers, and other contributors. LF Decentralized Trust project maintainers, experienced developers, and active community members will mentor participants, guiding them to complete a mentorship project with a defined scope and outcome. Mentors and mentees will collaborate remotely from their preferred locations, with regular evaluations and feedback provided. Mentees will have the opportunity to showcase their learnings and contributions through blogging, speaking at meetups or regional events, or traveling to a global event to present their work in person and network with the broader community. The mentorship program plays an important role in introducing new talent to the LF Decentralized Trust projects and community, which contributes to maintaining and enhancing the health and sustainability of our open source community. 
 
 # Benefits for Mentees
 
@@ -27,14 +27,13 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
 
 # Benefits for Mentors
 
-*   Opportunity to share passion about and expertise in open source development
+*   Defined avenue to share your passion and expertise in open source development and contribution
 
-*   Structured opportunity to inspire, teach, and guide new contributors
+*   Structured opportunity to teach and guide new contributors towards making productive contributions  
  
 *   Get additional help to address needs and gaps in feature or code development, research, or documentation
 
-*   Potential pipeline to train and bring new talent to enhance health and sustainability of your respective project and community 
-
+*   Nuture the health and sustainability of your project and community by training and and bringing in new talent
     
 # 2025 Program Dates 
 
@@ -57,7 +56,6 @@ _Note: The program dates are subject to change._
 # Funding
 
 Mentees may be eligible to receive funding for training or other materials needed for the mentorship project. Graduated mentees may be eligible to receive travel funding to attend in-person events to speak and to network in order to further collaboration with others in the open source community. The total amount of the funds may vary and the awarding of these funds are subject to a combination of needs and impact. 
-
 
 # Questions?
 
