@@ -1,4 +1,4 @@
 # mentoring-resources.md
 
-pending updates soon
+We're working on the content; please check back for updates later.
 
