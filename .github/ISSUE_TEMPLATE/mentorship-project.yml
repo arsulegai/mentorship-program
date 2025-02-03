@@ -57,9 +57,9 @@ body:
   - type: textarea
     id: impact
     attributes:
-      label: Relation to Hyperledger and Impact on the community
+      label: Relation to LF Decentralized Trust and impact on the community
       description: |
-        List the Hyperledger Project(s) or Labs, e.g. Hyperledger Fabric, Hyperledger Indy, Hyperledger Besu, and etc., that this mentorship is related to or adding features or functionalities or documentations or research results to and the impact the project may have on the community.
+        List the LF Decentralized Trust Project(s) or Labs, e.g. Hyperledger Fabric, Besu, and etc., that this mentorship is related to or adding features or functionalities or documentations or research results to and the impact the project may have on the community.
     validations:
       required: true
 
