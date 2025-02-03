@@ -1,7 +1,0 @@
-**term**
-
-: definition
-
-**term**
-
-: definition

@@ -85,9 +85,9 @@ nav:
   - Projects by year:
     - 2025: projects/2025.md
   - For Mentees:
-    - For Mentee Applicants: mentorship/for-mentee-applicants.md
-    - For Participating Mentees: mentorship/for-participating-mentees.md
-    - For Graduated Mentees: mentorship/for-graduated-mentees.md
+    - For Mentee Applicants: for-mentees/for-mentee-applicants.md
+    - For Participating Mentees: for-mentees/for-participating-mentees.md
+    - For Graduated Mentees: for-mentees/for-graduated-mentees.md
   - For Mentors:
-    - Project Proposal Guidelines: mentorship/project-proposal-guidelines.md
-    - Mentoring Resources: mentorship/mentoring-resources.md
+    - Project Proposal Guidelines: for-mentors/project-proposal-guidelines.md
+    - Mentoring Resources: for-mentors/mentoring-resources.md
