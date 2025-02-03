@@ -1,33 +1,24 @@
-# Project Proposal
+# Mentorship Project Proposal Submission Template
 
-Project Proposal Submission Template
-
-Please use this [template](https://lf-hyperledger.atlassian.net/wiki/display/INTERN/Mentorship+Projects) to submit your mentorship project proposal.
-
+Please use this [template](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues/new?template=mentorship-project.yml) to submit your mentorship project proposal.
   
-Proposal Submission Guidelines
+# Mentorship Project Proposal Submission Guidelines
 
 *   Project maintainers, active contributors and community members are welcome to submit a mentorship project proposal for consideration. Those who submit the project proposals will serve in the mentor role.
-*   Multiple mentors supervising one mentee per project would be more desirable as this helps spread the mentoring workload and reduce the challenge of coverage caused by working remotely with mentees from a different time zone.
+*   Multiple mentors per project is more desirable as this helps spread the mentoring workload and reduce the challenge of coverage due to working remotely with mentees from a different time zone.
 *   Mentors need to be knowledgeable about the scope, goals, and technical aspects of the project and will directly guide, supervise, and evaluate the mentee's work for the duration of the mentorship.
-*   The project needs to be scoped with clear objectives and outcomes, serving as a springboard to onboard a new contributor into the community.
+*   The mentorship project needs to be scoped with clear objectives and outcomes, serving as a springboard to onboard a new contributor into the community.   
+*   The outcome envisioned for the project can be accomplished under the mentor's guidance by new contributors working ~15 hours a week for ~ 6 months.    
+*   The project should be related to one of the current LF Decentralized Trust Projects or Labs or the community or ecosystem at large. 
+*   The outcome of the project will benefit the existing LF Decentralized Projects or Labs or advance the open source community's work at large.  
     
-*   The outcome envisioned for the project can be accomplished under the mentor's guidance by a new contributor working ~15-20 hours a week for 24 weeks.
-    
-*   The project should be related to one of the current Hyperledger Projects or Labs or the Hyperledger ecosystem at large.
-    
-*   The outcome of the project will benefit the existing Hyperledger Projects or Labs or advance the Hyperledger open source community's work at large.  
-*   The mentors are ready to sponsor the mentorship project as a Hyperledger Lab if the project is not already part of a Hyperledger Project or Lab when the mentorship commences. 
-    
+# Mentorship Project Proposal Selection Process and Criteria
 
-# Proposal Review/Selection Process and Criteria
-
-*   The Hyperledger TOC reviews proposals and select projects with technical (code, research, or documentation) focus, and the Hyperledger Foundation staff will review and select projects with business research focus. 
+*   A mentorship program task force appointed by the LF Decentralized Trust Technical Advisory Council will review, evluate, and select proposals to ensure the selected mentorship projects will benefit the LF Decentralized Trust projects, labs, or community.
 *   General selection criteria are:
-    *   The selected proposals have clearly scoped learning objectives and outcomes that could serve as a springboard to onboard new contributors.
-    *   The selected proposals can be accomplished, under the guidance of the mentors, by a new developer, researcher, or contributor within established program dates for mentee/mentor working period of 6 months when a mentee contributes on a part-time basis ~15-20 hours a week (for 2024 program year, the working period is from June to November).    
-        
-    *   The selected proposals should have a direct connection or relevance to an existing Hyperledger project or lab or ecosystem.
-    *   The selected proposals will further increase the contributor or maintainer base of the related Hyperledger Project or Lab or ecosystem.
-    *   The selected proposals have the potential to maximize the diversity of the projects, mentors, and mentees.
-*   Multiple proposals can be accepted for Projects that complete the annual review process as Graduated and only one accepted proposal for any other Project, Labs, SIGs or any other community group with any exceptions determined by staff.
+    *   The selected proposals have well defined learning objectives and outcomes that could serve as a springboard to onboard new contributors.
+    *   The selected proposals can be accomplished, under the guidance of the mentors, by a new developer, researcher, or contributor within established program dates.     
+    *   The selected proposals should have a direct connection or relevance to an existing LF Decentralize Trust Project or Lab or other emerging tech within the LF Decentralized Trust umbrella or community.
+    *   The selected proposals will further increase the contributor or maintainer base of the related LF Decentralized Trust Project or Lab or community.
+    *   The selected proposals have the potential to positively impact the diverse representation of the projects, mentors, and mentees within the LF Decentralized Trust community.
+*   Multiple proposals can be accepted for Projects that complete the annual review process as Graduated and only one accepted proposal for any other Project, Labs, or community groups with any exceptions determined by the TAC mentorship program task force.
