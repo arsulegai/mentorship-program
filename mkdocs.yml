@@ -84,22 +84,13 @@ nav:
   - Introduction: index.md
   - Projects by year:
     - 2025: projects/2025.md
-  - Getting Started:
-    - Installation: getting-started/installation.md
-    - Running: getting-started/running.md
-  - Tutorials:
-    - Introduction: tutorials/index.md
-    - Tutorial 1: tutorials/tutorial-1.md
-    - Tutorial 2: tutorials/tutorial-2.md
-    - Tutorial 3: tutorials/tutorial-3.md
-  - Guides:
-    - Operations: guides/operations.md
-    - Developers: guides/developers.md
-    - Upgrading: guides/upgrading.md
-  - References:
-    - Architecture: references/architecture.md
-    - Commands: references/commands.md
-    - Roadmap: references/roadmap.md
+  - For Mentees:
+    - For Mentee Applicants: mentorship/for-mentee-applicants.md
+    - For Participating Mentees: mentorship/for-participating-mentees.md
+    - For Graduated Mentees: mentorship/for-graduated-mentees.md
+  - For Mentors:
+    - Project Proposal Guidelines: mentorship/project-proposal-guidelines.md
+    - Mentoring Resources: mentorship/mentoring-resources.md
   - Contributing:
     - How to Contribute: contributing/how-to-contribute.md
     - Reporting a Bug: contributing/reporting-a-bug.md
