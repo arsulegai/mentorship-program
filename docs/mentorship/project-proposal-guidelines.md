@@ -1,7 +1,5 @@
 # Project Proposal
 
-  
-
 Project Proposal Submission Template
 
 Please use this [template](https://lf-hyperledger.atlassian.net/wiki/display/INTERN/Mentorship+Projects) to submit your mentorship project proposal.
