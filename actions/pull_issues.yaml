@@ -11,8 +11,7 @@ global:
 # Project proposals are listed as issues
 issues:
   issue-tags: # TODO: add appropriate tags
-    - "good first issue"
-    - "help wanted"
+    - "2025-LF-Decentralized-Trust"
   created-history-days: 0 # keep this to 0
   summary-filename: "/app/assets/html/generated/issue-summary.html" # unused, but keep it
   should-run: true # must be set to true
