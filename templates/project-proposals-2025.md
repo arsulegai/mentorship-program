@@ -1,6 +1,6 @@
 # 2025 Mentorship Projects
 
-{{range .Issues}}
+{{range .}}
 <div>
     <table>
         <tr>
