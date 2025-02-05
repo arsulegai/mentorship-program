@@ -17,7 +17,7 @@ jobs:
       - name: Generate the latest project proposals
         run: |
           # Run the docker-compose command
-          docker-compose -f docker/docker-compose.yaml up --build list_proposals
+          docker compose -f docker/docker-compose.yaml up --build list_proposals
           exit ${?}
         shell: bash
         env:
