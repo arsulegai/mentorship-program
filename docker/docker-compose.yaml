@@ -17,5 +17,6 @@ services:
         volumes:
             - ../actions:/actions
             - ../templates:/templates
+            - ../docs:/docs
         networks:
             - action_network
