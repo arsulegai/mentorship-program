@@ -11,13 +11,11 @@ services:
         environment:
             - GITHUB_TOKEN=${GITHUB_TOKEN}
             - CONFIG_FILE=/actions/pull_issues.yaml
-            - PR_TEMPLATE_FILE=/assets/html/template/pr-template.html
-            - RELEASE_TEMPLATE_FILE=/assets/html/template/release-template.html
-            - ISSUE_TEMPLATE_FILE=/assets/html/template/issue-template.html
+            - PR_TEMPLATE_FILE=/app/assets/html/template/pr-template.html
+            - RELEASE_TEMPLATE_FILE=/app/assets/html/template/release-template.html
+            - ISSUE_TEMPLATE_FILE=/app/assets/html/template/issue-template.html
         volumes:
             - ../actions:/actions
             - ../templates:/templates
-            - ../issues:/issues
-            - ../hyperledger-updates/assets:/assets
         networks:
             - action_network
